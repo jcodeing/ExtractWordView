@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ExtractWordView</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title">Awakening</string>
+    <array name="poetry">
+        <item>Hold fast to dreams \n紧紧抓住梦想，</item>
+        <item>For if dreams die \n梦想若是消亡</item>
+        <item>Life is a broken-winged bird \n生命就象鸟儿折了翅膀</item>
+        <item>That can never fly. \n再也不能飞翔</item>
+        <item>Hold fast to dreams \n紧紧抓住梦想，</item>
+        <item>For when dreams go \n梦想若是消丧</item>
+        <item>Life is a barren field \n生命就象贫瘠的荒野，</item>
+        <item>Frozen only with snow v \n雪覆冰封，万物不再生</item>
+        <item>The world in the morning to get everything \n世界在清晨获取万物</item>
+        <item>And you lose the world in the early morning \n而你在清晨失去世界</item>
+        <item>Don\'t let the early morning and then go \n不要让清晨随之而去</item>
+    </array>
+</resources>

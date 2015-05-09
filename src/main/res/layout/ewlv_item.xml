@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?><!-- 文章详情页面_类型1资讯_ListView的Item_A_PJC --><!-- 可以减少布局的嵌套TODO可将padding属性放到相对外层的ListView上 TODO -->
+
+<com.jcodeing.extractwordview.widget.EWListViewChildET xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ewe_text"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:layout_centerInParent="true"
+    android:focusable="false"
+    android:padding="10dp" />
