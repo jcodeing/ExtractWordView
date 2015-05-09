@@ -18,7 +18,7 @@ Usage
 		EWListView.java
 		EWListViewChildET.java
 	两个文件copy到你的工程中，
-	ListView用EWListView，或者，直接复制里面的逻辑到你自定义的ListView中即可。
+	ListView用EWListView，或者，直接复制里面的逻辑到你自定义的ListView中即可。。。。。。。
 	Item用EWListViewChildET，或者copy，逻辑到你的item中。
 License
 =======
